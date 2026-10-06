@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="transparent_dark">#3D000000</color>
+    <color name="skeleton_base">#E4E6EB</color>
+    <color name="text_color">#FFFFFF</color>
+    <color name="subtext_color">#CCFFFFFF</color>
+    <color name="bg_screen">#0E0E10</color>
+    <color name="bg_native">#171719</color>
+    <color name="bg_item">#161617</color>
+    <color name="text_blue">#0A6CFF</color>
+    <color name="bg_blue">#2E7DF6</color>
+    <color name="bg_light_blue">#290A68FF</color>
+
+    <color name="lfo_anim">#FFFFFF</color>
+</resources>

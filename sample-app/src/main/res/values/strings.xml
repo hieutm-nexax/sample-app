@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name" translatable="false">Sample Application</string>
+    <string name="select_language">Select Language</string>
+    <string name="feat_1">Feature 1: OnBoarding 1</string>
+    <string name="feat_1_des">This is the first feature of our app</string>
+    <string name="feat_2">Feature 2: OnBoarding 2</string>
+    <string name="feat_2_des">This is the second feature of our app</string>
+    <string name="feat_3">Feature 3: OnBoarding 3</string>
+    <string name="feat_3_des">This is the third feature of our app</string>
+
+    <string name="done">Done</string>
+</resources>

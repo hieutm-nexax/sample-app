@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="select_language">Chọn ngôn ngữ</string>
+    <string name="feat_1">Tính năng 1</string>
+    <string name="feat_1_des">Đây là tính năng 1 nè</string>
+    <string name="feat_2">Tính năng 2</string>
+    <string name="feat_2_des">Đây là tính năng 2 nè</string>
+    <string name="feat_3">Tính năng 3</string>
+    <string name="feat_3_des">Đây là tính năng 3 nè</string>
+
+    <string name="done">Xong</string>
+</resources>

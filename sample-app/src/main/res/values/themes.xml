@@ -1,0 +1,23 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.SdkAds" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.SdkAds" parent="Base.Theme.SdkAds">
+        <item name="color_bg_screen">@color/bg_screen</item>
+        <item name="color_bg_item_language">@color/bg_item</item>
+        <item name="color_text_level_1">@color/text_color</item>
+        <item name="color_text_level_2">@color/subtext_color</item>
+        <item name="color_icon">@color/bg_blue</item>
+        <item name="color_lfo_anim">@color/lfo_anim</item>
+
+        <item name="color_bg_ad">@color/bg_native</item>
+        <item name="color_bg_ad_cta">@color/bg_blue</item>
+        <item name="color_bg_ad_cta_meta">@color/bg_light_blue</item>
+        <item name="color_text_ad_cta">@color/white</item>
+        <item name="color_text_ad_cta_meta">@color/text_blue</item>
+        <item name="color_text_ad">@color/text_color</item>
+    </style>
+</resources>

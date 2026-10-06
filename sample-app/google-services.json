@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1082439419658",
+    "project_id": "sample-application-hugo",
+    "storage_bucket": "sample-application-hugo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082439419658:android:d2941fe15a95ae0755dcf3",
+        "android_client_info": {
+          "package_name": "com.nexax.sample_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGgKeHdh5YQaxcT-_i0DGThbVRs3HNavA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
